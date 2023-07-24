@@ -1,4 +1,4 @@
-# create a arogue WiFi Access point 
+# create a rogue WiFi Access point 
 The provided script is a set of instructions to set up a rogue Wi-Fi access point (AP) with a captive portal, allowing the attacker to capture sensitive information from unsuspecting users who connect to the rogue AP. It also involves internet access sharing and setting up a MySQL database to store captured information.
 
 Please note that such activities are unethical and illegal without explicit consent from the network owner. Engaging in unauthorized network access or any form of cyber-attacks is a violation of the law and can lead to severe consequences.
